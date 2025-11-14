@@ -20,4 +20,4 @@ html_context = {
     'bing_verification_code': '739245F5D54BCBF40AC056DC0CBF5710'
 }
 
-html_baseurl = 'https://docs.yourdomain.com/'
+html_baseurl = 'https://microtrendguide.readthedocs.io/en/latest/'
