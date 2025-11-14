@@ -1,3 +1,2 @@
 User-agent: *
 Allow: /
-Sitemap: https://microtrendguide.readthedocs.io/en/latest/sitemap.xml
