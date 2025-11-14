@@ -21,3 +21,5 @@ html_context = {
 }
 
 html_baseurl = 'https://microtrendguide.readthedocs.io/en/stable/'
+html_extra_path = ['robots.txt']
+
