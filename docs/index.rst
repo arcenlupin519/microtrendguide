@@ -3,7 +3,7 @@ How to Login to Your Trend Micro Account Easily
 
 Trend Micro is a globally recognized cybersecurity brand that provides various security solutions to protect your devices, data, and online privacy. If you're a customer or a user of Trend Micro products, it's important to know how to access your account efficiently. Logging into your Trend Micro account can sometimes be a challenge, but with the right steps, you can access your account quickly and securely.
 
-.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
